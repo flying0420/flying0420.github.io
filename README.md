@@ -1,18 +1,9 @@
 <html>
 
-<style>
-body{
-  background-color=cyan;
-}
-</style>
-
-
-<head>
-
 <h1>Test website</h1>
-</head>
 
-<body>
+
+<body background-color=cyan>
 <p>Read me</p>
 
 <p>This is the website repo
