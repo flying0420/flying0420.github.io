@@ -3,7 +3,7 @@
 <h1>Test website</h1>
 
 
-<body background-color=cyan>
+<body>
 <p>Read me</p>
 
 <p>This is the website repo
