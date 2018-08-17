@@ -4,18 +4,20 @@
 body{
   background-color=cyan;
 }
-
 </style>
 
 
 <head>
+
+<h1>Test website</h1>
 </head>
 
 <body>
-Read me
+<p>Read me</p>
 
-This is the website repo
-2018/08/17
+<p>This is the website repo
+2018/08/17</p>
+
 </body>
 
 </html>
