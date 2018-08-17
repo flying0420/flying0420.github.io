@@ -1,5 +1,8 @@
-<!doctype html>
 <style>
+body{
+  background-color=cyan;
+}
+
 </style>
 <body>
 Read me
